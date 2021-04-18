@@ -1,0 +1,9 @@
+[Desktop Entry]
+Name=Myabell!
+Comment=Files converting application.
+Exec=/home/bapon/Myabell-1.0.0/shell_scripts/Myabell.sh
+Icon=/usr/share/icons/Myabell_logo.png
+Terminal=false
+Type=Application
+Categories=Utility;
+GenericName[en_IN]=File converting application.

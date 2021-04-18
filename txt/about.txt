@@ -1,0 +1,23 @@
+	 ______________________
+	|	 Myabell                |
+	|	Version-1.0.0        |
+	|-----------------------------|
+	
+	👩‍💻️This is multi functional applications in a single application.
+	The main menu can understand users usage and arrange the menu 
+	in same way.Use UP and Down arrow or scroll button to change 
+	the menu.Use the button to select a operation.	
+	
+	✍️Author :: Bapon Kar
+	🔖️Published Date :: 18 July 2020
+	🈸️License :: GNU GPL3.0
+	
+	Download & Update link ::
+	🔗️'https://gitlab.com/baponkar/myabell-1.0.0'
+	
+	💳️Credit :
+	[1] smocky01.com 
+	[2] Martin Fitzpatrick. 
+	[3] stackoverflow.com
+	Contact :: baponkar600@gmail.com
+							---o-o-o-o-o---

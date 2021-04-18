@@ -1,0 +1,7 @@
+ifconfig > local_ip.txt
+det=$(cat local_ip.txt)
+inet0=$(sed '18q;d' local_ip.txt)
+inet1=${inet0%'netmask'*}
+inet=${inet1##*'inet'}  
+
+echo $inet

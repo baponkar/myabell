@@ -1,0 +1,17 @@
+Terminal 
+System Info 
+Settings 
+MyUnitConverter 
+MyPlayer 
+MyMathematicalCalculation 
+MyDictionary 
+MyBrowser 
+Game 
+FileTransfer 
+FileConversion 
+Calendar 
+Calculator 
+About 
+EMICalculator
+Weather
+AndroidMirror

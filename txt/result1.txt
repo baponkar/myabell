@@ -1,0 +1,10 @@
+{
+  "ipv4": "223.191.60.217",
+  "continent_name": "Asia",
+  "country_name": "India",
+  "subdivision_1_name": "West Bengal",
+  "subdivision_2_name": null,
+  "city_name": "Siuri",
+  "latitude": "23.91670",
+  "longitude": "87.53330"
+}
