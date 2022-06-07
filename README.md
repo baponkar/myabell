@@ -8,7 +8,7 @@
 ![Python3](https://img.shields.io/badge/python-3-blue)
 ![Shell Script](https://img.shields.io/badge/Shell-scripts-blue)
 ![Ubuntu-debian](https://img.shields.io/badge/Ubuntu-Debian-red)
-[![paypal](https://www.paypalobjects.com/en_US/i/btn/btn_donateCC_LG.gif)](https://www.paypal.com/paypalme/baponkar)
+
 
 ## Version - v-1.0.1
 ## License : GNU GPL V3.0
